@@ -2,6 +2,8 @@
 
 Usefull configs
 
+
+
 clean and universal configuration for
 
 bash - bashrc
